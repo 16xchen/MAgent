@@ -1,0 +1,5 @@
+/home/xchen/MAgent/build/CMakeFiles/edit_cache.dir
+/home/xchen/MAgent/build/CMakeFiles/magent.dir
+/home/xchen/MAgent/build/CMakeFiles/render.dir
+/home/xchen/MAgent/build/CMakeFiles/testlib.dir
+/home/xchen/MAgent/build/CMakeFiles/rebuild_cache.dir
